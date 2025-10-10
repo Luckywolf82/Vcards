@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Trygve Eiulf Waagen
+N:Waagen;Trygve;;;
+ORG:Wayback Trondheim
+TITLE:Daglig leder
+TEL;TYPE=CELL:+47 47731087
+EMAIL;TYPE=INTERNET:trygve@wayback.no
+URL:https://wayback.no
+ADR;TYPE=WORK:;;Kongens gate 46;Trondheim;;7012;Norge
+END:VCARD
