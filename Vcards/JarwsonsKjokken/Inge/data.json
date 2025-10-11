@@ -1,0 +1,33 @@
+{
+  "orgKey": "JarwsonsKjokken",
+  "orgName": "Jarwsons kjøkken",
+  "accent": "#ee5500",
+  "logoUrl": "",
+  "logoBg": "",
+  "slug": "Inge",
+  "name": "Inge Jarwson",
+  "title": "Leder",
+  "phone": "45287326",
+  "email": "inge.jarwson@gmail.com",
+  "site": "",
+  "address": "selbuvegen 639",
+  "vcfFilename": "Inge_JarwsonsKjokken.vcf",
+  "ghUser": "Luckywolf82",
+  "ghRepo": "Vcards",
+  "basePath": "Vcards",
+  "strategy": "pr",
+  "links": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/jarwsons_kjokken/",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=100063811642351",
+      "pre": "",
+      "post": ""
+    }
+  ]
+}
