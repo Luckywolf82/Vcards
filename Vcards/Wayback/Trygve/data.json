@@ -1,0 +1,20 @@
+{
+  "orgKey": "Wayback",
+  "orgName": "Wayback",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
+  "logoBg": "#ffffff",
+  "slug": "Trygve",
+  "name": "Trygve Eiulf Waagen",
+  "title": "Avdelingsleder",
+  "phone": "+47 47731087",
+  "email": "trygve@wayback.no",
+  "site": "https://wayback.no",
+  "address": "Kongens gate 46, 7012 Trondheim, Norge",
+  "vcfFilename": "trygve_wayback.vcf",
+  "ghUser": "Luckywolf82",
+  "ghRepo": "Vcards",
+  "basePath": "Vcards",
+  "strategy": "pr",
+  "links": []
+}
