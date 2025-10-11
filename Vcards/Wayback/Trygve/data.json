@@ -12,8 +12,8 @@
   "site": "https://wayback.no",
   "address": "Kongens gate 46, 7012 Trondheim, Norge",
   "vcfFilename": "trygve_wayback.vcf",
-  "ghUser": "",
-  "ghRepo": "",
+  "ghUser": "Luckywolf82",
+  "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
   "links": []
