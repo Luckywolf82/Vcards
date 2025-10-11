@@ -2,15 +2,15 @@
   "orgKey": "JarwsonsKjokken",
   "orgName": "Jarwsons kjøkken",
   "accent": "#ee5500",
-  "logoUrl": "",
-  "logoBg": "#eeeeee",
+  "logoUrl": "https://Luckywolf82.github.io/Vcards/Vcards/assets/JarwsonsKjokken/JarwsonsKjokken_logo_1760193731972.png?v=1760193733087?v=1760193733175",
+  "logoBg": "#ffffff",
   "slug": "Inge",
-  "name": "Inge Jarwson",
+  "name": "Inge Jarvson",
   "title": "Leder",
   "phone": "45287326",
   "email": "inge.jarwson@gmail.com",
   "site": "",
-  "address": "selbuvegen 639",
+  "address": "selbuveien 639",
   "vcfFilename": "Inge_JarwsonsKjokken.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
@@ -18,14 +18,14 @@
   "strategy": "pr",
   "links": [
     {
-      "label": "Instagram",
-      "url": "https://www.instagram.com/jarwsons_kjokken/",
-      "pre": "",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=100063811642351",
+      "pre": "følg meg på facebook",
       "post": ""
     },
     {
-      "label": "Facebook",
-      "url": "https://www.facebook.com/profile.php?id=100063811642351",
+      "label": "Instagram",
+      "url": "https://instagram.com/jarwsons_kjokken",
       "pre": "",
       "post": ""
     }
