@@ -1,39 +1,20 @@
 {
   "orgKey": "Wayback",
-  "orgName": "Wayback",
-  "accent": "#3ec6ff",
-  "logoUrl": "https://Luckywolf82.github.io/Vcards/Vcards/assets/Wayback/Wayback_logo_1760216696431.png",
-  "logoBg": "",
+  "orgName": "Wayback Trondheim",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
+  "logoBg": "#ffffff",
   "slug": "Trygve",
   "name": "Trygve Eiulf Waagen",
-  "title": "Avd Leder",
+  "title": "Leder",
   "phone": "47731087",
-  "email": "trygve@wayback.no",
-  "site": "https://www.wayback.no/wayback-trondheim/",
+  "email": "",
+  "site": "",
   "address": "Ringvålvegen",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
-  "links": [
-    {
-      "label": "Facebook",
-      "url": "https://www.facebook.com/WaybackTrondheim",
-      "pre": "",
-      "post": ""
-    },
-    {
-      "label": "TikTok",
-      "url": "https://www.tiktok.com/@wayback.trondheim?_r=1&_d=secCgYIASAHKAESPgo8xsYLh8sfMa9DCnbaDHMlRsDhXG1iPLzbRdZ1iSiP5uCoTx1XZhbXfTklUz%2FFrn%2FbiFeYSqLW%2BhaSj5kxGgA%3D&_svg=2&checksum=731a31394ccba7c456693bcb4180d79c53da972019ff3e2b3cd6f826fd4f48d8&item_author_type=1&sec_uid=MS4wLjABAAAA7mIfUAPKZodhnkmbXd3QKRN-llzYcwYP3-maeQsW7bbUjMp9oXwZW8fnfwn1ewn0&sec_user_id=MS4wLjABAAAA7mIfUAPKZodhnkmbXd3QKRN-llzYcwYP3-maeQsW7bbUjMp9oXwZW8fnfwn1ewn0&share_app_id=1233&share_author_id=7541352700194604054&share_link_id=f32db66e-df30-4efb-8107-cfc5dc3920ab&share_scene=1&sharer_language=nb&social_share_type=5&source=h5_m&timestamp=1760216909&u_code=em2jg4blfkidkj&ug_btm=b8727%2Cb4907&ugbiz_name=ACCOUNT&user_id=7541352700194604054&utm_campaign=client_share&utm_medium=android&utm_source=copy",
-      "pre": "",
-      "post": ""
-    },
-    {
-      "label": "Spond",
-      "url": "https://spond.com/invite/TRBAY",
-      "pre": "Følg oss i spond",
-      "post": "TRBAY"
-    }
-  ]
+  "links": []
 }
