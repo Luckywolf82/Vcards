@@ -2,10 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Trygve Eiulf Waagen
 N:Waagen;Trygve;;;
-ORG:Wayback
-TITLE:Avd Leder
+ORG:Wayback Trondheim
+TITLE:Leder
 TEL;TYPE=CELL:47731087
-EMAIL;TYPE=INTERNET:trygve@wayback.no
-URL:https://www.wayback.no/wayback-trondheim/
+EMAIL;TYPE=INTERNET:
+URL:
 ADR;TYPE=WORK:;;Ringvålvegen
 END:VCARD
