@@ -1,0 +1,28 @@
+{
+  "orgKey": "test",
+  "orgName": "test",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
+  "logoBg": "#ffffff",
+  "slug": "test",
+  "name": "test",
+  "title": "",
+  "phone": "",
+  "email": "",
+  "site": "",
+  "address": "",
+  "vcfFilename": "test_test.vcf",
+  "ghUser": "Luckywolf82",
+  "ghRepo": "Vcards",
+  "basePath": "Vcards",
+  "strategy": "pr",
+  "links": [],
+  "attachments": [
+    {
+      "label": "ukeplan Wayback 10.03.25.pdf",
+      "url": "https://Luckywolf82.github.io/Vcards/Vcards/test/test/files/test_test_1760453123786_ukeplan_Wayback_10.03.25.pdf",
+      "filename": "test_test_1760453123786_ukeplan_Wayback_10.03.25.pdf",
+      "origin": "uploaded"
+    }
+  ]
+}
