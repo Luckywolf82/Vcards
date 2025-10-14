@@ -3,9 +3,9 @@ VERSION:3.0
 FN:Trygve Eiulf Waagen
 N:Waagen;Trygve;;;
 ORG:Wayback Trondheim
-TITLE:Avd leder
-TEL;TYPE=CELL:+47 47731087
-EMAIL;TYPE=INTERNET:trygve@wayback.no
+TITLE:
+TEL;TYPE=CELL:+4747731087
+EMAIL;TYPE=INTERNET:
 URL:
-ADR;TYPE=WORK:;;Ringvålvegen 41B kongens gt 46
+ADR;TYPE=WORK:;;Kongens gt 46
 END:VCARD
