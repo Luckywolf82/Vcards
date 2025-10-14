@@ -6,7 +6,7 @@
   "logoBg": "#ffffff",
   "slug": "Trygve",
   "name": "Trygve Eiulf Waagen",
-  "title": "",
+  "title": "Avdelingsleder",
   "phone": "+4747731087",
   "email": "trygve@wayback.no",
   "site": "https://www.wayback.no/wayback-trondheim/",
@@ -19,15 +19,23 @@
   "links": [
     {
       "label": "Facebook",
-      "url": "https://www.facebook.com/share/16EdNe921K/",
+      "url": "https://www.facebook.com/share/1FRDicNabW/",
       "pre": "",
       "post": ""
     },
     {
-      "label": "Spond",
-      "url": "https://spond.com/invite/TRBAY",
-      "pre": "Få med deg arrangementer i spond",
+      "label": "TikTok",
+      "url": "https://www.tiktok.com/@wayback.trondheim?_t=ZN-90Xt6087fXi&_r=1",
+      "pre": "",
       "post": ""
+    }
+  ],
+  "attachments": [
+    {
+      "label": "Wayback Timeplan",
+      "url": "https://Luckywolf82.github.io/Vcards/Vcards/Wayback/Trygve/files/Wayback_Trygve_1760454505615_Wayback_timeplan.pdf",
+      "filename": "Wayback_Trygve_1760454505615_Wayback_timeplan.pdf",
+      "origin": "uploaded"
     }
   ]
 }
