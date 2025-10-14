@@ -8,8 +8,8 @@
   "name": "Trygve Eiulf Waagen",
   "title": "",
   "phone": "+4747731087",
-  "email": "",
-  "site": "",
+  "email": "trygve@wayback.no",
+  "site": "https://www.wayback.no/wayback-trondheim/",
   "address": "Kongens gt 46",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
@@ -21,6 +21,12 @@
       "label": "Facebook",
       "url": "https://www.facebook.com/share/16EdNe921K/",
       "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Spond",
+      "url": "https://spond.com/invite/TRBAY",
+      "pre": "Få med deg arrangementer i spond",
       "post": ""
     }
   ]
