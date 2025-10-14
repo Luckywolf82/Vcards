@@ -16,5 +16,12 @@
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
-  "links": []
+  "links": [
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/share/16EdNe921K/",
+      "pre": "",
+      "post": ""
+    }
+  ]
 }
