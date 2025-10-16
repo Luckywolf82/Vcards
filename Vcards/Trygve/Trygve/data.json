@@ -1,0 +1,21 @@
+{
+  "orgKey": "Trygve",
+  "orgName": "Wayback Trondheim",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
+  "logoBg": "#ffffff",
+  "slug": "Trygve",
+  "name": "Trygve Eiulf Waagen",
+  "title": "",
+  "phone": "",
+  "email": "",
+  "site": "",
+  "address": "",
+  "vcfFilename": "Trygve_Trygve.vcf",
+  "ghUser": "Luckywolf82",
+  "ghRepo": "Vcards",
+  "basePath": "Vcards",
+  "strategy": "pr",
+  "links": [],
+  "attachments": []
+}
