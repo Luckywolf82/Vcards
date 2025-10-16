@@ -7,10 +7,10 @@
   "slug": "Trygve",
   "name": "Trygve Eiulf Waagen",
   "title": "Avdelingsleder",
-  "phone": "+4747731087",
-  "email": "trygve@wayback.no",
+  "phone": "47 73 10 87",
+  "email": "Trygve@wayback.no",
   "site": "https://www.wayback.no/wayback-trondheim/",
-  "address": "Kongens gt 46",
+  "address": "Kongens gate 46",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
@@ -18,24 +18,29 @@
   "strategy": "pr",
   "links": [
     {
-      "label": "Facebook",
-      "url": "https://www.facebook.com/share/1FRDicNabW/",
+      "label": "Spond",
+      "url": "https://spond.com/invite/TRBAY",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook side",
+      "url": "https://www.facebook.com/share/19zvQzKUFu/",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook gruppe",
+      "url": "https://www.facebook.com/share/g/1DXyBJBieN/",
       "pre": "",
       "post": ""
     },
     {
       "label": "TikTok",
-      "url": "https://www.tiktok.com/@wayback.trondheim?_t=ZN-90Xt6087fXi&_r=1",
+      "url": "https://www.tiktok.com/@wayback.trondheim?_t=ZN-90an6Oci0s2&_r=1",
       "pre": "",
       "post": ""
     }
   ],
-  "attachments": [
-    {
-      "label": "Timeplan",
-      "url": "https://Luckywolf82.github.io/Vcards/Vcards/Wayback/Trygve/files/Wayback_Trygve_1760454677831_Wayback_timeplan.pdf",
-      "filename": "Wayback_Trygve_1760454677831_Wayback_timeplan.pdf",
-      "origin": "uploaded"
-    }
-  ]
+  "attachments": []
 }
