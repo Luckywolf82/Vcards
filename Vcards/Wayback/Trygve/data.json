@@ -5,31 +5,17 @@
   "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
   "logoBg": "#ffffff",
   "slug": "Trygve",
-  "name": "Trygve Eiulf Waagen",
-  "title": "Avdelingsleder",
+  "name": "trygve E Waagen",
+  "title": "",
   "phone": "",
-  "email": "trygve@wayback.no",
-  "site": "https://www.wayback.no/wayback-trondheim/",
-  "address": "kongens gate 46",
+  "email": "",
+  "site": "",
+  "address": "",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
-  "links": [
-    {
-      "label": "Facebook",
-      "url": "https://www.facebook.com/WaybackTrondheim",
-      "pre": "",
-      "post": ""
-    }
-  ],
-  "attachments": [
-    {
-      "label": "Oppdatert ukeplan Wayback.pdf",
-      "url": "https://Luckywolf82.github.io/Vcards/Vcards/Wayback/Trygve/files/Wayback_Trygve_1760800073886_Oppdatert_ukeplan_Wayback.pdf",
-      "filename": "Wayback_Trygve_1760800073886_Oppdatert_ukeplan_Wayback.pdf",
-      "origin": "uploaded"
-    }
-  ]
+  "links": [],
+  "attachments": []
 }
