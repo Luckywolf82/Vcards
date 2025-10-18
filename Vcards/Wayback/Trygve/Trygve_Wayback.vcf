@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Ted bundy
-N:bundy;Ted;;;
+FN:Trygve E Waagen
+N:Waagen;Trygve;;;
 ORG:Wayback Trondheim
-TITLE:Avd leder
-TEL;TYPE=CELL:
-EMAIL;TYPE=INTERNET:trygvetrygg@hotmail.com
-URL:test.no
-ADR;TYPE=WORK:;;
+TITLE:Avdelingsleder
+TEL;TYPE=CELL:47731087
+EMAIL;TYPE=INTERNET:trygve@wayback.no
+URL:wayback.no/wayback-trondheim/
+ADR;TYPE=WORK:;;kongens gate 46
 END:VCARD
