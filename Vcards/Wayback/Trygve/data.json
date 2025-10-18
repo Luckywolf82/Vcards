@@ -5,24 +5,36 @@
   "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
   "logoBg": "#ffffff",
   "slug": "Trygve",
-  "name": "Ted bundy",
-  "title": "Avd leder",
-  "phone": "",
-  "email": "trygvetrygg@hotmail.com",
-  "site": "test.no",
-  "address": "",
+  "name": "Trygve E Waagen",
+  "title": "Avdelingsleder",
+  "phone": "47731087",
+  "email": "trygve@wayback.no",
+  "site": "wayback.no/wayback-trondheim/",
+  "address": "kongens gate 46",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
-  "attachments": [],
   "links": [
     {
-      "label": "Facebook",
-      "url": "https://www.facebook.com/trygve.eiulf.waagen",
+      "label": "Facebook side",
+      "url": "https://www.facebook.com/WaybackTrondheim",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook gruppe",
+      "url": "https://www.facebook.com/groups/613400108065243",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "spond",
+      "url": "https://spond.com/invite/TRBAY",
       "pre": "",
       "post": ""
     }
-  ]
+  ],
+  "attachments": []
 }
