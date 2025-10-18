@@ -7,9 +7,9 @@
   "slug": "Trygve",
   "name": "Trygve Eiulf Waagen",
   "title": "Avdelingsleder",
-  "phone": "47 73 10 87",
-  "email": "Trygve@wayback.no",
-  "site": "https://www.wayback.no/wayback-trondheim/",
+  "phone": "47731087",
+  "email": "trygve@wayback.no",
+  "site": "https://wayback.no",
   "address": "Kongens gate 46",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
@@ -18,25 +18,25 @@
   "strategy": "pr",
   "links": [
     {
+      "label": "Facebook side",
+      "url": "https://www.facebook.com/WaybackTrondheim",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook Gruppe",
+      "url": "https://www.facebook.com/share/g/1DXyBJBieN/",
+      "pre": "",
+      "post": ""
+    },
+    {
       "label": "Spond",
       "url": "https://spond.com/invite/TRBAY",
       "pre": "",
       "post": ""
     },
     {
-      "label": "Facebook side",
-      "url": "https://www.facebook.com/share/19zvQzKUFu/",
-      "pre": "",
-      "post": ""
-    },
-    {
-      "label": "Facebook gruppe",
-      "url": "https://www.facebook.com/share/g/1DXyBJBieN/",
-      "pre": "",
-      "post": ""
-    },
-    {
-      "label": "TikTok",
+      "label": "Tiktok",
       "url": "https://www.tiktok.com/@wayback.trondheim?_t=ZN-90an6Oci0s2&_r=1",
       "pre": "",
       "post": ""
