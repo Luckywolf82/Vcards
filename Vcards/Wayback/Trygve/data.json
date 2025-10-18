@@ -5,17 +5,24 @@
   "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
   "logoBg": "#ffffff",
   "slug": "Trygve",
-  "name": "trygve E Waagen",
-  "title": "",
-  "phone": "",
-  "email": "",
+  "name": "Trygve Eiulf Waagen",
+  "title": "Avdelingsleder",
+  "phone": "47731087",
+  "email": "47731087",
   "site": "",
-  "address": "",
+  "address": "Kongens Gate",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
   "links": [],
-  "attachments": []
+  "attachments": [
+    {
+      "label": "Oppdatert ukeplan Wayback.pdf",
+      "url": "https://Luckywolf82.github.io/Vcards/Vcards/Wayback/Trygve/files/Wayback_Trygve_1760806508485_Oppdatert_ukeplan_Wayback.pdf",
+      "filename": "Wayback_Trygve_1760806508485_Oppdatert_ukeplan_Wayback.pdf",
+      "origin": "uploaded"
+    }
+  ]
 }
