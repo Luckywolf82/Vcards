@@ -1,11 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Trygve Eiulf Waagen
-N:Waagen;Trygve;;;
+FN:trygve E Waagen
+N:Waagen;trygve;;;
 ORG:Wayback Trondheim
-TITLE:Avdelingsleder
+TITLE:
 TEL;TYPE=CELL:
-EMAIL;TYPE=INTERNET:trygve@wayback.no
-URL:https://www.wayback.no/wayback-trondheim/
-ADR;TYPE=WORK:;;kongens gate 46
+EMAIL;TYPE=INTERNET:
+URL:
+ADR;TYPE=WORK:;;
 END:VCARD
