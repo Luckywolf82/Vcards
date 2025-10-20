@@ -6,27 +6,16 @@
   "logoBg": "#ffffff",
   "slug": "Trygve",
   "name": "Trygve Eiulf Waagen",
-  "title": "Avdelingsleder",
-  "phone": "47731087",
-  "email": "trygve@wayback.no",
-  "site": "https://www.wayback.no/wayback-trondheim/",
-  "address": "Kongens gate 46",
+  "title": "ljsdef",
+  "phone": "økmjølkj",
+  "email": "ølølk",
+  "site": "",
+  "address": "",
   "vcfFilename": "Trygve_Wayback.vcf",
   "ghUser": "Luckywolf82",
   "ghRepo": "Vcards",
   "basePath": "Vcards",
   "strategy": "pr",
-  "attachments": [
-    "Oppdatert_ukeplan_Wayback.pdf",
-    "Oppdatert_ukeplan_Wayback.pdf",
-    "Oppdatert_ukeplan_Wayback.pdf"
-  ],
-  "links": [
-    {
-      "label": "facebook",
-      "url": "https://www.facebook.com/groups/613400108065243",
-      "pre": "",
-      "post": ""
-    }
-  ]
+  "attachments": [],
+  "links": []
 }
