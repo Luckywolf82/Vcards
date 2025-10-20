@@ -1,0 +1,31 @@
+{
+  "orgKey": "Akbk",
+  "orgName": "Akademiet kickboxing klubb",
+  "orgSite": "https://akbk.no",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://Luckywolf82.github.io/Vcards/Vcards/assets/Akbk/Akbk_logo_1760998447828.png",
+  "logoBg": "#ffffff",
+  "slug": "ulf",
+  "name": "Ulf Johansen",
+  "title": "leder",
+  "phone": "",
+  "email": "post@akbk.no",
+  "site": "https://akbk.no",
+  "address": "haakon 7. gate",
+  "vcfFilename": "ulf.vcf",
+  "links": [
+    {
+      "label": "Facebook side",
+      "url": "https://www.facebook.com/profile.php?id=100063509592571",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook gruppe",
+      "url": "https://www.facebook.com/groups/866068613532929",
+      "pre": "",
+      "post": ""
+    }
+  ],
+  "attachments": []
+}
