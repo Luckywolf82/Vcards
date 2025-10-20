@@ -1,0 +1,31 @@
+{
+  "orgKey": "Akademiet kickboxing klubb",
+  "orgName": "Akademiet kickboxing klubb",
+  "orgSite": "https://akbk.no",
+  "accent": "#8fd3ff",
+  "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
+  "logoBg": "#ffffff",
+  "slug": "Akbk",
+  "name": "Ulf Johannessen",
+  "title": "Leder",
+  "phone": "45259977",
+  "email": "Post@akbk.no",
+  "site": "akbk.no",
+  "address": "Haakon 7. Gate 13",
+  "vcfFilename": "Akbk.vcf",
+  "links": [
+    {
+      "label": "Facebook side",
+      "url": "https://www.facebook.com/share/1aJRcy884y/",
+      "pre": "",
+      "post": ""
+    },
+    {
+      "label": "Facebook gruppe",
+      "url": "https://www.facebook.com/groups/866068613532929/?ref=share",
+      "pre": "",
+      "post": ""
+    }
+  ],
+  "attachments": []
+}
