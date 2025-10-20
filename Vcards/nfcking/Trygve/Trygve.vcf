@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Trygve Eiulf Waagen
+N:Waagen;Trygve;;;
+ORG:nfcking
+TITLE:Adm Dir
+TEL;TYPE=CELL:47731087
+EMAIL;TYPE=INTERNET:post@nfcking.no
+URL:https://nfcking.netlify.app/
+ADR;TYPE=WORK:;;Kongens gate 46
+END:VCARD
