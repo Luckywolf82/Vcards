@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Ulf Johannessen
+N:Johannessen;Ulf;;;
+ORG:Akademiet kickboxing klubb
+TITLE:Leder
+TEL;TYPE=CELL:45259977
+EMAIL;TYPE=INTERNET:Post@akbk.no
+URL:akbk.no
+ADR;TYPE=WORK:;;Haakon 7. Gate 13
+END:VCARD
