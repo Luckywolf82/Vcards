@@ -1,6 +1,7 @@
 {
   "orgKey": "Wayback",
   "orgName": "Wayback Trondheim",
+  "orgSite": "https://www.wayback.no/wayback-trondheim/",
   "accent": "#8fd3ff",
   "logoUrl": "https://www.wayback.no/wp-content/uploads/2017/12/logo.png",
   "logoBg": "#ffffff",
@@ -12,10 +13,6 @@
   "site": "https://www.wayback.no/wayback-trondheim/",
   "address": "Kongens gate 46",
   "vcfFilename": "Wayback_Wayback.vcf",
-  "ghUser": "Luckywolf82",
-  "ghRepo": "Vcards",
-  "basePath": "Vcards",
-  "strategy": "pr",
   "links": [
     {
       "label": "Spond",
@@ -42,5 +39,7 @@
       "post": ""
     }
   ],
-  "attachments": []
+  "attachments": [
+    "Oppdatert_ukeplan_Wayback.pdf"
+  ]
 }
