@@ -1,6 +1,7 @@
 {
   "orgKey": "jarwsons kjøkken",
   "orgName": "jarwsons kjøkken",
+  "orgSite": "",
   "accent": "#8fd3ff",
   "logoUrl": "https://scontent.ftrd3-1.fna.fbcdn.net/v/t39.30808-1/310466474_517639897039727_8758122836917224330_n.png?stp=dst-png_s480x480&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=PQAk8L608BQQ7kNvwHsPSPT&_nc_oc=AdkJoS0srMi6X0Cgpc3_acp-oESxaQoGNL7Eks3fSDBJpkTKoDj8tLv1BfFLYblqU_Ve8-PbsAeZ4Ymsp1yc2rTg&_nc_zt=24&_nc_ht=scontent.ftrd3-1.fna&_nc_gid=hX-hKLJj800FHqAV67JEVg&oh=00_AffOrIj4mFRDuy0MhlUVwZWLqbVQ1N2BT3RELRjm5ndSmg&oe=68F09E07",
   "logoBg": "#ffffff",
@@ -12,10 +13,6 @@
   "site": "",
   "address": "",
   "vcfFilename": "Inge_jarwsons kjøkken.vcf",
-  "ghUser": "Luckywolf82",
-  "ghRepo": "Vcards",
-  "basePath": "Vcards",
-  "strategy": "pr",
   "links": [
     {
       "label": "Instagram",
@@ -29,5 +26,6 @@
       "pre": "",
       "post": ""
     }
-  ]
+  ],
+  "attachments": []
 }
